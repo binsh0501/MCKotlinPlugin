@@ -1,0 +1,7 @@
+name: MCPlugins
+version: '1.0-SNAPSHOT'
+main: org.binsh.mckotlinplugin.Main
+api-version: '1.21'
+commands:
+  hello:
+    description: 플레이어에게 인사 메시지를 보냅니다.
